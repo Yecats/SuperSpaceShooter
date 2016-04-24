@@ -3,4 +3,5 @@ The following is a list of scenarios for beginner Unity developers to enhance Su
 
 ## Player Lives
 *Difficulty Projection:* Easy
+
 The player has 3 lives 
