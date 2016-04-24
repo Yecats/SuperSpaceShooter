@@ -6,10 +6,11 @@ The following is a list of development challenges to enhance Super Space Shooter
 
 **Skills:** Coding
 
-The player has 3 lives and once killed should respawn if they have additional lives left.
+The player has 3 lives and once killed should respawn if they have additional lives left. 
 
 ## Shield Behavior (Player and Enemy)
 **Difficulty:** Easy
+
 **Skills:** Animation, Coding, Sound
 
 Create a shield that allows 
@@ -30,6 +31,10 @@ Create a shield that allows
 
 **Skills:** Animation, Coding, Sound
 
+## Better Varied Spawn Logic
+**Difficulty:** Medium
 
+**Skills:** Coding
 
+The current game logic is to have the AI spawn based on a result of 'csharp Random.Range(3,10);'
 
