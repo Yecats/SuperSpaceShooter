@@ -1,5 +1,5 @@
 # Super Space Shooter
-Unity demo gaming showing simple mechanics such as audio, sprites, enemy AI and networking.
+Super Space Shooter is a Unity demo game showing simple mechanics such as audio, sprites, enemy AI and networking. The purpose of this project is to give beginner developers a stepping stone into creating their own games.
 
 This project uses graphics and sounds provied by Kenney. Assets can be found at http://kenney.nl/. The exact asset packs used are:
 * [Space Shooter Redux](http://kenney.nl/assets/space-shooter-redux)
