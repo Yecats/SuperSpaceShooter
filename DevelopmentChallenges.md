@@ -1,5 +1,5 @@
 # Development Challenges
-The following is a list of scenarios for beginner Unity developers to enhance Super Space Shooter and continue learning the engine. Most scenarios are 
+The following is a list of development challenges to enhance Super Space Shooter and continue learning the Unity engine. Scenarios have been ranked in difficulty.
 
 ## Player Lives
 **Difficulty:** Easy
