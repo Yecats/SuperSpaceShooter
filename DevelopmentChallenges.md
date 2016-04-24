@@ -36,5 +36,5 @@ Create a shield that allows
 
 **Skills:** Coding
 
-The current game logic is to have the AI spawn based on a result of '''csharp Random.Range(3,10);'''
+The current game logic is to have the AI spawn based on a result of ```csharp Random.Range(3,10);```
 
