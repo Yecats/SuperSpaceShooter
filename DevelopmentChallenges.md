@@ -10,7 +10,6 @@ The player has 3 lives and once killed should respawn if they have additional li
 
 ## Shield Behavior (Player and Enemy)
 **Difficulty:** Easy
-
 **Skills:** Animation, Coding, Sound
 
 Create a shield that allows 
