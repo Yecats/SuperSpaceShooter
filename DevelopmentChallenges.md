@@ -47,8 +47,6 @@ Another option for creating a leaderboard is to integrate with Android, iPhone, 
 ### Achievements
 **Difficulty:** Hard   |   **Skills:** Coding, User Interface
 
-Players could earn achievements for attacking a certain amount and/or type of enemy. For example, there could be three achievments around killing a "Small Enemy" unlocked at the 10, 50 and 100 kill mark. If doing local integration, then there would need to be a way to store the information and tie it to the player.
+Achievements are a very common component of video games. With Super Space Shooter, players could earn achievements for attacking a certain amount and/or type of enemy. For example, there could be three achievments around killing a "Small Enemy" unlocked at the 10, 50 and 100 kill mark. 
 
-Players can earn achievements earn points based on the amount of enemies that they have killed. Once they die, their information should be logged into a leaderboard. This logic could be based off of whether or not they made the top X of the list or it could be a long running history. 
-
-Another option for creating a leaderboard is to integrate with Android, iPhone, Windows or [PlayFab](https://playfab.com/) services. 
+If doing local integration, then there would need to be a way to store the information and tie it to the player. Another option for storing achievements is to integrate with Android, iPhone, Windows or [PlayFab](https://playfab.com/) services.
