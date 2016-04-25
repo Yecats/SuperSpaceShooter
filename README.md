@@ -8,4 +8,4 @@ Super Space Shooter is a bare bones game that has many opportunities to be exten
 This project uses graphics and sounds provied by Kenney. Assets can be found at http://kenney.nl/. The exact asset packs used are:
 * [Space Shooter Redux](http://kenney.nl/assets/space-shooter-redux)
 * [Digital Audio](http://kenney.nl/assets/digital-audio)
-* [UI Pack: Space Expansion](http://kenney.nl/assets/ui-pack-space-expansion)
+* [UI Pack](http://kenney.nl/assets/ui-pack)
