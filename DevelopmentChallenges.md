@@ -12,13 +12,23 @@ The player has 3 lives and once killed should respawn if they have additional li
 ### Add Shields
 **Difficulty:** Easy   |   **Skills:** Animation, Coding, Sound
 
-
 ### Break Apart Models
 **Difficulty:** Easy   |   **Skills:** Animation, Coding
+
+### Block AI and Players From Leaving the Screen
+**Difficulty:** Easy   |   **Skills:** Coding, User Interface
+
+Currently players and AI can move off of the camera's view. This should be corected so that they cannot move off of the screen. [Screen](http://docs.unity3d.com/ScriptReference/Screen.html) and [Mathf.Clamp](http://docs.unity3d.com/ScriptReference/Mathf.Clamp.html) are going to be very helpful for this. 
 
 ## Medium Challenges
 ### Add Power Ups
 **Difficulty:** Medium   |   **Skills:** Animation, Coding
+
+Power-Ups enhance the game play by giving the player something that is different and interesting. They typically respawn randomly around the game screen. Some power-up ideas are:
+
+* A shield energy replenisher.
+* Advanced weapons that run out.
+* Refill the ship's hit points.
 
 ### Add Weapons
 **Difficulty:** Medium   |   **Skills:** Animation, Coding, Sound
