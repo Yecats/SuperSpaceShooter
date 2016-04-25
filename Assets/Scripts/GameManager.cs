@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         TogglePlayer(true);
+        Player.GetComponent<Player>().HitPoints = 3;
+
         _score = 0;
         if (SpawnEnemies)
         {
