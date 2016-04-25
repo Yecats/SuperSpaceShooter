@@ -1,4 +1,4 @@
-![alt text](SuperSpaceShooterLogo.png "Logo Title Text 1")
+![alt text](SuperSpaceShooterLogo.png "Super Space Shooter")
 
 
 Super Space Shooter is a Unity demo game showing simple mechanics such as audio, animations, AI and UI. The purpose of this project is to give beginner developers a stepping stone into creating their own games.
