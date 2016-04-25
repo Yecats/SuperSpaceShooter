@@ -1,7 +1,7 @@
 # Development Challenges
 The following is a list of development challenges to enhance Super Space Shooter and continue learning the Unity engine. Each challenge is a feature that is being added or enhanced to build the game up to draw the player in. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
 
-**Note: Some challanges may depend on another being completed. For example, achievements depend on a player profile.**
+*Note: Some challanges may depend on another being completed. For example, achievements depend on a player profile.*
 
 ## Easy Challenges
 ### Player Lives
