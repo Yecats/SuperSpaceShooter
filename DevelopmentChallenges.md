@@ -4,6 +4,17 @@ The following is a list of development challenges to enhance Super Space Shooter
 *Note: Some challanges may depend on another being completed. For example, achievements depend on a player profile.*
 
 ## Easy Challenges
+### Better Game Over Behavior
+**Difficulty:** Easy   |   **Skills:** Scripting, User Interface
+The game over logic in Super Space Shooter returns the player to the main screen. This can be enahnced for a better flow by doing simple things such as:
+
+* Changing the text of the "Play" button to say "Retry"
+* Displaying the final score on the main screen
+
+### Better Game Start Behavior
+**Difficulty:** Easy   |   **Skills:** Scripting, User Interface
+Timer.
+
 ### Player Lives
 **Difficulty:** Easy   |   **Skills:** Scripting, User Interface
 
