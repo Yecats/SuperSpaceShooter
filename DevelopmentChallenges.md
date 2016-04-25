@@ -7,7 +7,7 @@ The following is a list of development challenges to enhance Super Space Shooter
 ### Player Lives
 **Difficulty:** Easy   |   **Skills:** Coding, User Interface
 
-The player has 3 lives and once killed should respawn if they have additional lives left. With this challenge you'll need to modify the code to account for having lives in addition to having health. The lives left should be displayed visually to the player. 
+The player can be hit three times and once killed should respawn if they have additional lives left. With this challenge you'll need to modify the code to account for having lives in addition to having health. The lives left should be displayed visually to the player. 
 
 ### Add Shields
 **Difficulty:** Easy   |   **Skills:** Animation, Coding, Sound
