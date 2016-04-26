@@ -6,6 +6,7 @@ The following is a list of development challenges to enhance Super Space Shooter
 ## Easy Challenges
 ### Better Game Over Behavior
 **Difficulty:** Easy   |   **Skills:** Scripting, User Interface
+
 The game over logic in Super Space Shooter returns the player to the main screen. This can be enahnced for a better flow by doing simple things such as:
 
 * Changing the text of the "Play" button to say "Retry"
@@ -32,6 +33,13 @@ The player can be hit three times and once killed should respawn if they have ad
 Currently players and AI can move off of the camera's view. This should be corected so that they cannot move off of the screen. [Screen](http://docs.unity3d.com/ScriptReference/Screen.html) and [Mathf.Clamp](http://docs.unity3d.com/ScriptReference/Mathf.Clamp.html) are going to be very helpful for this. 
 
 ## Medium Challenges
+### Add Touch-Input for a Mobile Device
+**Difficulty:** Medium   |   **Skills:** Scripting
+
+Super Space Shooter does not take into consideration the possibility that someone might use their fingers to provide it input, rather than the mouse and keboard. This is a very common scenario for mobile devices and can be solved fairly easily.
+
+The "[Mobile Device Input](Mobile Device Input)" manual entry will be key in understanding how input works within Unity. You'll also need to work with the [Input](http://docs.unity3d.com/ScriptReference/Input.html) class.
+
 ### Add Power Ups
 **Difficulty:** Medium   |   **Skills:** Animation, Scripting
 
