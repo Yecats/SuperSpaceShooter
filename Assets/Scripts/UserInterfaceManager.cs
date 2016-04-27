@@ -45,6 +45,7 @@ public class UserInterfaceManager : MonoBehaviour
     public void Start_OnClick()
     {
         GameManager.SetActive(true);
+        ScoreText.text = "Score: 0";
 
         foreach (Transform health in GameScreen.transform.FindChild("Health").transform)
         {
