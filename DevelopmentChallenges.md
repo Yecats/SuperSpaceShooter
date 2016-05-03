@@ -9,12 +9,15 @@ The following is a list of development challenges to enhance Super Space Shooter
 
 The game over logic in Super Space Shooter returns the player to the main screen. This can be enahnced for a better flow by doing simple things such as:
 
-* Changing the text of the "Play" button to say "Retry"
-* Displaying the final score on the main screen
+* Changing the text of the "Play" button to say "Retry". 
+* Displaying the final score on the main screen.
 
 ### Better Game Start Behavior
-**Difficulty:** Easy   |   **Skills:** Scripting, User Interface
-Timer.
+**Difficulty:** Easy   |   **Skills:** Scripting, User Interface | **Resources:** Coroutine [Script](http://docs.unity3d.com/ScriptReference/Coroutine.html) & [Manual](http://docs.unity3d.com/Manual/Coroutines.html); [Invoke Script](http://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html)
+
+The player is not given much time to prepare themselves for the battle that is about to begin. An easy way to give the player time to prepare is to provide them with a countdown before the ```GameManager``` class begins spawning. This can be done by using a [coroutine](http://docs.unity3d.com/Manual/Coroutines.html). 
+
+Coroutines are similiar to Invoking, which was used to spawn the enemies at a random rate. As you may recall, Invoking lets you call a method after a set amount of time (in seconds) has gone by. Coroutines let you pause execution until it's given [YieldInstruction](http://docs.unity3d.com/ScriptReference/YieldInstruction.html) is finished.
 
 ### Player Lives
 **Difficulty:** Easy   |   **Skills:** Scripting, User Interface
