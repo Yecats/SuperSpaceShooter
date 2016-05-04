@@ -13,7 +13,7 @@ Super Space Shooter is a Unity demo game showing simple mechanics such as audio,
 
 Super Space Shooter is a bare bones game that has many opportunities to be extended and enhanced to draw players in. Development challenges are designed to get new developers used to breaking down a large problem (making a game) into smaller, bite sized chunks. It is important to note that the challenges are not meant to be step-by-step instructions on how to solve a problem in Unity but instead encourage research and experimentation. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
 
-*Note: Some challanges may depend on another being completed. For example, adding achievements depend on a player profile.*
+*Note: Some challenges may depend on another being completed. For example, adding achievements depend on a player profile.*
 
 * Easy Development Challenges - Coming Soon
 * Medium Development Challenges - Coming Soon
