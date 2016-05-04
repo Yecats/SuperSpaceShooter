@@ -1,11 +1,11 @@
 # Development Challenges
-The following is a list of development challenges to enhance Super Space Shooter and continue learning the Unity engine. Each challenge is a feature that is being added or enhanced to build the game up to draw the player in. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
+The following is a list of development challenges to enhance Super Space Shooter and continue learning the Unity engine. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
 
 *Note: Some challanges may depend on another being completed. For example, achievements depend on a player profile.*
 
 ## Easy Challenges
 ### Better Game Over Behavior
-**Difficulty:** Easy   |   **Skills:** Scripting, User Interface
+**Difficulty:** Easy   |   **Skills:** Scripting, User Interface | **Resources:**
 
 The game over logic in Super Space Shooter returns the player to the main screen. This can be enahnced for a better flow by doing simple things such as:
 
@@ -13,7 +13,7 @@ The game over logic in Super Space Shooter returns the player to the main screen
 * Displaying the final score on the main screen.
 
 ### Better Game Start Behavior
-**Difficulty:** Easy   |   **Skills:** Scripting, User Interface | **Resources:** Coroutine [Script](http://docs.unity3d.com/ScriptReference/Coroutine.html) & [Manual](http://docs.unity3d.com/Manual/Coroutines.html); [Invoke Script](http://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html)
+**Difficulty:** Easy   |   **Skills:** Scripting, User Interface | **Resources:** Coroutine [Script](http://docs.unity3d.com/ScriptReference/Coroutine.html) & [Manual](http://docs.unity3d.com/Manual/Coroutines.html), Invoke [Script](http://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html)
 
 The player is not given much time to prepare themselves for the battle that is about to begin. An easy way to give the player time to prepare is to provide them with a countdown before the ```GameManager``` class begins spawning. This can be done by using a [coroutine](http://docs.unity3d.com/Manual/Coroutines.html). 
 
