@@ -4,7 +4,7 @@
 Super Space Shooter is a Unity demo game showing simple mechanics such as audio, animations, AI and UI. The purpose of this project is to give beginner developers a stepping stone into creating their own games. Videos showing how Super Space Shooter was created from the beginning can be found here:
 
 1. [Build A Unity Game - Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-1)
-2. Build A Unity Game - Part 2 - Coming Soon
+2. [Build A Unity Game - Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-2)
 3. Build A Unity Game - Part 3 - Coming Soon
 
 ## Development Challenges
