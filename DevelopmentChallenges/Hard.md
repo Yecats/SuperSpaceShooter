@@ -9,7 +9,7 @@ Player profiles are an excellent way to draw your players into your game. Profil
 ## Achievements
 **Skills:** Scripting, User Interface
 
-Achievements are a very common component of video games. With Super Space Shooter, players could earn achievements for attacking a certain amount and/or type of enemy. For example, there could be three achievments around killing a "Small Enemy" unlocked at the 10, 50 and 100 kill mark.
+Achievements are a very common component of video games. With Super Space Shooter, players could earn achievements for attacking a certain amount and/or type of enemy. For example, there could be three achievements around killing a "Small Enemy" unlocked at the 10, 50 and 100 kill mark.
 
 *Note: Some external services you could integrate with are [Google Play](https://play.google.com/apps/publish) or [PlayFab](https://playfab.com/).*
 
@@ -24,4 +24,3 @@ There's only one player ship and weapon combination available to players. This c
 Players earn points based on the amount of enemies that they have killed. Once they die, their information should be logged into a leaderboard. This logic could be based off of whether or not they made the top X of the list or it could be a long running history. 
 
 *Note: Some external services you could integrate with are [Google Play](https://play.google.com/apps/publish) or [PlayFab](https://playfab.com/).*
-

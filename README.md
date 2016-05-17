@@ -7,17 +7,17 @@ Super Space Shooter is a Unity demo game showing simple mechanics such as audio,
 2. [Build A Unity Game - Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-2)
 3. Build A Unity Game - Part 3 - Coming Soon
 
-## Development Challenges
+I'd love to see what you've created with the development challenges or on your own! Tweet them to [@yecats131](https://twitter.com/yecats131).
 
-*Note: Development challenges will be made available in the coming weeks.*
+## Development Challenges
 
 Super Space Shooter is a bare bones game that has many opportunities to be extended and enhanced to draw players in. Development challenges are designed to get new developers used to breaking down a large problem (making a game) into smaller, bite sized chunks. It is important to note that the challenges are not meant to be step-by-step instructions on how to solve a problem in Unity but instead encourage research and experimentation. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
 
 *Note: Some challenges may depend on another being completed. For example, adding achievements depend on a player profile.*
 
-* Easy Development Challenges - Coming Soon
-* Medium Development Challenges - Coming Soon
-* Hard Development Challenges - Coming Soon
+* [Easy Development Challenges](DevelopmentChallenges/Easy.md)
+* [Medium Development Challenges](DevelopmentChallenges/Medium.md)
+* [Hard Development Challenges](DevelopmentChallenges/Hard.md)
 
 ## Credit
 This project uses the [Luckiest Guy](http://www.1001fonts.com/luckiest-guy-font.html) Font and graphics/sounds provied by Kenney. Assets can be found at http://kenney.nl/. The exact asset packs used are:
