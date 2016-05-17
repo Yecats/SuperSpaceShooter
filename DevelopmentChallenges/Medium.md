@@ -1,22 +1,21 @@
 # Medium Development Challenges 
 ## Add Touch-Input for a Mobile Device
-**Skills:** Scripting
+**Skills:** Scripting | **Resources:** Mobile Device Input [Manual](http://docs.unity3d.com/Manual/MobileInput.html) and [Script](http://docs.unity3d.com/ScriptReference/Input.html)
 
-Super Space Shooter does not take into consideration the possibility that someone might use their fingers to provide it input, rather than the mouse and keboard. This is a very common scenario for mobile devices and can be solved fairly easily.
+Super Space Shooter does not take into consideration the possibility that someone might use their fingers to provide it input, rather than the mouse and keyboard. This is a very common scenario for mobile devices and can be solved fairly easily.
 
-The "[Mobile Device Input](Mobile Device Input)" manual entry will be key in understanding how input works within Unity. You'll also need to work with the [Input](http://docs.unity3d.com/ScriptReference/Input.html) class.
+The "[Mobile Device Input](http://docs.unity3d.com/Manual/MobileInput.html)" manual entry will be key in understanding how input works within Unity. You'll also need to work with the [Input](http://docs.unity3d.com/ScriptReference/Input.html) class.
 
 ## Add Power Ups
- **Skills:** Animation, Scripting
+ **Skills:** Animation, Scripting, Sound | **Resources:** Prefabs [Manual](http://docs.unity3d.com/Manual/Prefabs.html)
 
-Power-Ups enhance the game play by giving the player something that is different and interesting. They typically respawn randomly around the game screen. Some power-up ideas are:
+Power-Ups enhance the game play by giving the player something that is different and interesting. They typically spawn randomly around the game screen. Some power-up ideas are:
 
 * A shield energy replenisher.
 * Advanced weapons that run out.
 * Refill the ship's hit points.
 
-## Add Weapons
-**Skills:** Animation, Scripting, Sound
+The spawning can be done very similar to how the enemy spawning was completed. Remember, you'll need to create prefabs for the power-ups.  
 
 ## Better Spawn Logic
 **Skills:** Scripting
