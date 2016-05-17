@@ -15,7 +15,7 @@ Super Space Shooter is a bare bones game that has many opportunities to be exten
 
 *Note: Some challenges may depend on another being completed. For example, adding achievements depend on a player profile.*
 
-* [Easy Development Challenges](Easy.md)
+* [Easy Development Challenges](DevelopmentChallenges/Easy.md)
 * [Medium Development Challenges](Medium.md)
 * [Hard Development Challenges](Hard.md)
 
