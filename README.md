@@ -1,5 +1,6 @@
 ![alt text](SuperSpaceShooterLogo.png "Super Space Shooter")
 
+[![Join the chat at https://gitter.im/staceyhaffner/SuperSpaceShooter](https://badges.gitter.im/staceyhaffner/SuperSpaceShooter.svg)](https://gitter.im/staceyhaffner/SuperSpaceShooter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Super Space Shooter is a Unity demo game showing simple mechanics such as audio, animations, AI and UI. The purpose of this project is to give beginner developers a stepping stone into creating their own games. Videos showing how Super Space Shooter was created from the beginning can be found here:
 
