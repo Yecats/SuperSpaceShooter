@@ -7,7 +7,7 @@ Super Space Shooter is a Unity demo game showing simple mechanics such as audio,
 1. [Build a Unity Game - Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-1)
 2. [Build a Unity Game - Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-2)
 3. [Build a Unity Game - Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-a-Unity-Game-Part-3)
-4. Build a Unity Game - Part 4 - Coming Soon
+4. [Build a Unity Game - Part 4 ](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-a-Unity-Game-Part-4)
 
 I'd love to see what you've created with the development challenges or on your own! Tweet them to [@yecats131](https://twitter.com/yecats131) or join the conversation on [Gitter](https://gitter.im/staceyhaffner/SuperSpaceShooter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
