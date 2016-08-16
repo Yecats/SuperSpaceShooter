@@ -55,6 +55,7 @@ public class UserInterfaceManager : MonoBehaviour
         MainScreen.SetActive(false);
         GameScreen.SetActive(true);
 
+        Cursor.visible = false;
     }
 
     /// <summary>
@@ -65,5 +66,7 @@ public class UserInterfaceManager : MonoBehaviour
         GameManager.SetActive(false);
         MainScreen.SetActive(true);
         GameScreen.SetActive(false);
+
+        Cursor.visible = true;
     }
 }
