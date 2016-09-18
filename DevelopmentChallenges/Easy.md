@@ -19,10 +19,6 @@ The game over logic in Super Space Shooter returns the player to the main screen
   <summary>**Hint 3**</summary>
    Use the anchor points to move UI game objects around the canvas. Holding ctrl will let you keep the same sizing but reposition its location.  
 </details>
-<details> 
-  <summary>**Hint 4**</summary>
-   Remember to clear out the 
-</details>
 
 ## Better Game Start Behavior
 **Skills:** Scripting, User Interface | 
