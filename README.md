@@ -2,15 +2,9 @@
 
 [![Join the chat at https://gitter.im/staceyhaffner/SuperSpaceShooter](https://badges.gitter.im/staceyhaffner/SuperSpaceShooter.svg)](https://gitter.im/staceyhaffner/SuperSpaceShooter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Super Space Shooter is a Unity demo game showing simple mechanics such as audio, animations, AI and UI. The purpose of this project is to give beginner developers a stepping stone into creating their own games. Videos showing how Super Space Shooter was created from the beginning can be found here:
+Super Space Shooter is a Unity demo game showing simple mechanics such as audio, animations, AI and UI. The purpose of this project is to give beginner developers a stepping stone into creating their own games. 
 
-1. [Build a Unity Game - Part 1](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-1)
-2. [Build a Unity Game - Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-2)
-3. [Build a Unity Game - Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-a-Unity-Game-Part-3)
-4. [Build a Unity Game - Part 4 ](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-a-Unity-Game-Part-4)
-
-I'd love to see what you've created with the development challenges or on your own! Tweet them to [@yecats131](https://twitter.com/yecats131) or join the conversation on [Gitter](https://gitter.im/staceyhaffner/SuperSpaceShooter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
-
+I'd love to see what you've created with the development challenges or on your own! Tweet them to [@yecats131](https://twitter.com/yecats131).
 ## Development Challenges
 
 Super Space Shooter is a bare bones game that has many opportunities to be extended and enhanced to draw players in. Development challenges are designed to get new developers used to breaking down a large problem (making a game) into smaller, bite sized chunks. It is important to note that the challenges are not meant to be step-by-step instructions on how to solve a problem in Unity but instead encourage research and experimentation. By the end of the challenges you'll have a complete space shooter game with better visuals, power ups, customizations, player profiles and AI improvements.
